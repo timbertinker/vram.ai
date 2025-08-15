@@ -417,7 +417,7 @@
                         (0, n.jsx)("div", {
                           className: k().logoWrapper,
                           children: (0, n.jsx)(w(), {
-                            src: "https://vram.ai/vram-text-logo.webp",
+                            src: "/vram-text-logo.webp",
                             alt: "VRAM.AI Logo",
                             width: 180,
                             height: 60,
@@ -1008,7 +1008,7 @@
                 (0, n.jsxs)("p", {
                   className: (0, o.Z)(B()["first-line"], "h1"),
                   children: [
-                    "VRAM is ",
+                    "DEEPRAM is ",
                     (0, n.jsx)("br", {}),
                     (0, n.jsx)("span", {
                       className: "contrast",
@@ -1025,7 +1025,7 @@
                     }),
                     (0, n.jsx)("p", {
                       className: "h4",
-                      children: "The bigger the VRAM",
+                      children: "The bigger the DEEPRAM",
                     }),
                   ],
                 }),
@@ -1064,7 +1064,7 @@
                 (0, n.jsxs)("p", {
                   className: (0, o.Z)(B()["first-line"], "h1"),
                   children: [
-                    "VRAM is ",
+                    "DEEPRAM is ",
                     (0, n.jsx)("br", {}),
                     (0, n.jsx)("span", {
                       className: "contrast",
@@ -1559,7 +1559,7 @@
                   "AI Agents Launchpad",
                   "AI Agents Marketplace",
                 ],
-                image: "https://vram.ai/vram-text-logo.webp",
+                image: "/vram-text-logo.webp",
               },
               className: et().home,
               children: [
@@ -1588,7 +1588,7 @@
                             }),
                             (0, n.jsx)("h3", {
                               className: (0, o.Z)("h2", et().subtitle),
-                              children: "POWERED BY $VRAM",
+                              children: "POWERED BY $DEEPRAM",
                             }),
                             (0, n.jsx)("div", {
                               className: et().buyButtonContainer,
@@ -1682,7 +1682,7 @@
                     children: [
                       (0, n.jsx)("h2", {
                         className: (0, o.Z)(et().sticky, "h2"),
-                        children: "What Makes VRAM Unique?",
+                        children: "What Makes DEEPRAM Unique?",
                       }),
                       (0, n.jsxs)("aside", {
                         className: et().features,
@@ -1799,7 +1799,7 @@
                             children: (0, n.jsxs)("p", {
                               className: "p",
                               children: [
-                                "The rise of AI has been explosive, yet flawed. Centralized models control innovation, closed AI systems stifle collaboration, and existing Web3 AI projects barely scratch the surface. VRAM changes this by creating a truly decentralized, community-driven AI development ecosystem.",
+                                "The rise of AI has been explosive, yet flawed. Centralized models control innovation, closed AI systems stifle collaboration, and existing Web3 AI projects barely scratch the surface. DEEPRAM changes this by creating a truly decentralized, community-driven AI development ecosystem.",
                                 (0, n.jsx)("br", {}),
                               ],
                             }),
@@ -1872,7 +1872,7 @@
                           className: (0, o.Z)(et().enter, "h2 vh"),
                           children: (0, n.jsx)("span", {
                             className: et().getText,
-                            children: "$VRAM",
+                            children: "$DEEPRAM",
                           }),
                         }),
                         (0, n.jsx)("h2", {
@@ -1902,7 +1902,7 @@
                               }),
                               (0, n.jsx)("cite", {
                                 className: et().quoteCite,
-                                children: "Sid, CEO of VRAM",
+                                children: "Sid, CEO of DEEPRAM",
                               }),
                             ],
                           }),
@@ -2173,7 +2173,7 @@
                       children: [
                         (0, n.jsx)("h2", {
                           className: (0, o.Z)("h1", et().nftTitle),
-                          children: "VRAM GENESIS CORE",
+                          children: "DEEPRAM GENESIS CORE",
                         }),
                         (0, n.jsxs)("div", {
                           className: et().videoContainer,

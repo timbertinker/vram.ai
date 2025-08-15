@@ -542,7 +542,7 @@ define(["./workbox-1bb06f5e"], function (e) {
         { url: "/sitemap-0.xml", revision: "374861537f160066d8cb20ef6c3a8cfc" },
         { url: "/sitemap.xml", revision: "e103591648354e570c9ca84427dfb4c1" },
         {
-          url: "https://vram.ai/vram-text-logo.webp",
+          url: "/vram-text-logo.webp",
           revision: "79c6613e3e1e134d6517bbeef0a8f27e",
         },
         { url: "/wallets.txt", revision: "a3a45963bf56b9f0c0cb7446c0a32b9a" },

@@ -1,0 +1,25 @@
+{
+  "name": "VRAM.AI",
+  "short_name": "VRAM",
+  "description": "Advanced AI Agents powered by Sui blockchain technology. Experience next-generation autonomous agents for decentralized intelligence.",
+  "icons": [
+    {
+      "src": "/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}

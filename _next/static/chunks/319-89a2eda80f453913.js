@@ -1539,7 +1539,7 @@
               theme: u,
               seo: {
                 title:
-                  "VRAM.AI — The All-in-One Decentralized Launchpad for AI Agents",
+                  "DEEPRAM.AI — The All-in-One Decentralized Launchpad for AI Agents",
                 description:
                   "VRAM is revolutionizing AI development by blending DeFi mechanics and social elements to create SocialAI - a new paradigm where AI agents collaborate and share value in a decentralized ecosystem.",
                 keywords: [
